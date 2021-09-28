@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bratanon/bratanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<span><img src="https://github-readme-stats.vercel.app/api?username=bratanon&show_icons=true&theme=dracula&count_private=true&hide_border=true" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratanon&layout=compact&theme=dracula&hide_border=true" /></span>
