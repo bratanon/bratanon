@@ -12,5 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span><img src="https://github-readme-stats.vercel.app/api?username=bratanon&show_icons=true&theme=dracula&count_private=true&hide_border=true" /></span>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratanon&layout=compact&theme=dracula&hide_border=true" /></span>
+# Emil Stjerneman
+
+
+
+<span><img src="https://github-readme-stats.vercel.app/api?username=bratanon&hide_title=true&show_icons=true&theme=transparent&count_private=true&hide_border=true" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratanon&hide_title=true&layout=compact&theme=transparent&hide_border=true" /></span>
